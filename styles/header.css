@@ -48,3 +48,10 @@
     display: none;
   }
 }
+
+@media (max-width: 480px) {
+  .header .btn {
+    width: 90px;
+    font-size: 16px;
+  }
+}

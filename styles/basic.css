@@ -25,6 +25,13 @@ a {
   height: 24px;
   flex-shrink: 0;
 }
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
 .btn {
   border: none;
   border-radius: 3px;
