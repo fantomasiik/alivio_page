@@ -21,8 +21,7 @@
   align-items: start;
   row-gap: 60px;
 }
-.pricing__nav-item {
-}
+
 .pricing a {
   color: var(--co-white);
 }
